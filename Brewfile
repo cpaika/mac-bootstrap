@@ -1,0 +1,37 @@
+tap "homebrew/cask"
+tap "archivebox/archivebox"
+
+brew "mas"
+# Caffeine had problems starting on 2023 Macbook Pro
+# Switching to Amphetamine instead via mas
+# cask "caffeine"
+mas "Amphetamine", id: 937984704
+brew "pandoc"
+cask "alfred"
+cask "iterm2"
+cask "rectangle"
+cask "sublime-text"
+cask "obsidian"
+cask "google-chrome"
+brew "archivebox"
+# Need to run archivebox setup after
+brew "sbt"
+brew "docker"
+brew "scala"
+cask "intellij-idea"
+cask "visual-studio-code"
+brew "grpcurl"
+brew "helm"
+brew "jq"
+brew "asdf"
+brew "gh"
+brew "awscli"
+cask "postman"
+cask "webstorm"
+cask "brave-browser"
+brew "youtube-dl"
+brew "ffmpeg"
+cask "spotify"
+cask "discord"
+mas "Omnifocus", id: 1346203938
+brew "graphviz"

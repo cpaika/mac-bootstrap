@@ -12,6 +12,7 @@ fi
 brew bundle install
 
 mkdir ~/projects
+mkdir ~/projects/scratch
 
 # ASDF Installs
 ## Java 

@@ -22,3 +22,6 @@ Like my plugins are in the .zshrc, those need to sync!
 
 ### Brave
 Can we have a profile that syncs via iCloud
+
+### IntelliJ
+* License key, Scala plugin, etc

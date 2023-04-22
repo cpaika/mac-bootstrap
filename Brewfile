@@ -7,6 +7,7 @@ brew "mas"
 # cask "caffeine"
 mas "Amphetamine", id: 937984704
 brew "pandoc"
+brew "deno"
 cask "alfred"
 cask "iterm2"
 cask "rectangle"

@@ -25,3 +25,6 @@ Can we have a profile that syncs via iCloud
 
 ### IntelliJ
 * License key, Scala plugin, etc
+
+### Fantastical
+Sign in to Google and Apple accounts

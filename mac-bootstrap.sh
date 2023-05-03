@@ -2,6 +2,8 @@
 # Can we have mac settings and notifications sync somewhere?
 # Publish this on github?
 
+xcode-select --install
+
 if ! command -v brew &> /dev/null
 then
    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"

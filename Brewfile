@@ -34,5 +34,8 @@ brew "youtube-dl"
 brew "ffmpeg"
 cask "spotify"
 cask "discord"
+cask "mullvadvpn"
+brew "marp-cli"
 mas "Omnifocus", id: 1346203938
+mas "Fantastical", id: 975937182
 brew "graphviz"

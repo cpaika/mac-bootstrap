@@ -9,6 +9,7 @@ mas "Amphetamine", id: 937984704
 brew "pandoc"
 brew "deno"
 cask "alfred"
+cask "steam"
 cask "iterm2"
 cask "rectangle"
 cask "sublime-text"
@@ -39,3 +40,4 @@ brew "marp-cli"
 mas "Omnifocus", id: 1346203938
 mas "Fantastical", id: 975937182
 brew "graphviz"
+brew "neovim"
